@@ -12,8 +12,6 @@ int main(){
     cout<<"Famous Birthdays Lookup System"<<endl;
     cout<<"♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡"<< endl;
     cout<<"Layan Barrieshee"<<endl;
-    cout<<"301544289"<<endl;
-    cout<<"lab22@sfu.ca" <<endl;
     cout<<"♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡" <<endl;
 
 
@@ -265,4 +263,5 @@ int main(){
                  
     }  
    } 
+
 }
